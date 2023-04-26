@@ -1,0 +1,23 @@
+table{
+    background-color: rgb(92, 177, 216);
+    margin-bottom: 30px;
+}
+th{
+    background-color: orange;
+    font-size: 30;
+    font-weight: 27px;
+}
+td{
+    background-color: rgb(104, 165, 231);
+    border: 1px solid black;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
